@@ -1,5 +1,5 @@
  body {
-   font-family: Arial, sans-serif;
+   font-family: Cooper;
  }
     
  h1 {
@@ -21,7 +21,7 @@
    margin: 0 auto;
    padding: 10px 20px;
    font-size: 18px;
-   background-color: #0CBABA;
+   background-color: #ba0cae;
    color: #fff;
    border: none;
    border-radius: 3px;
@@ -49,4 +49,7 @@
  }
 #contenedor{
   text-align: center;
+}
+.fondo{
+  background-color: aqua;
 }
